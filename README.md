@@ -7,8 +7,7 @@ But be careful — if you miss too many, you will lose your colors!
 ---
 
 ## 📸 Screenshot  
-![Game Screenshot](<img width="1920" height="841" alt="image" src="https://github.com/user-attachments/assets/b1f2cdf3-2186-4d5c-b189-b7ec9d46171b" />
-)
+![Game Screenshot](game-screenshot.png)
 
 ---
 
